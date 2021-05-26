@@ -9,3 +9,6 @@
 - Aimer (Left-Click to shoot, Right-Click to swap with next queued bubble)
 - Elimination through Breadth-First Search (BFS) algorithm
 - Bubble falling by checking a valid path to the top
+
+# Screenshots
+<img src="screenshots/1.png"  width="360">
